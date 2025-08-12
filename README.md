@@ -1,8 +1,8 @@
 # 🙋‍♀️Olá Pessoal, sou Evelyn Kling!
 
-<br><br>Sejam muito bem vindos (as)!</h2>
+<br><br>Sejam muito bem vindos (as)!</h2> 🤗
 
-**'Tech Recruiter'**
+**'Tech Recruiter'** 👩‍💻
 
 Sou Evelyn Kling,  formada em Administração com ênfase em Recursos Humanos, atualmente estou cursando Pós-Graduação e Gestão de Pessoas e Psicologia Organizacional.
 
