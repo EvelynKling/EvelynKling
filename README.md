@@ -145,12 +145,12 @@ Bora nos conectar e fazer com que nossa Parceria seja de muito Sucesso!🥰🍀�
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="40" alt="salesforce logo"  />
 </div>
 
-###
 
+#
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/snake.svg" alt="Snake animation" />
-
-###
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/github-contribution-grid-snake.svg">
+</picture>
 
