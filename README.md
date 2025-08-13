@@ -147,10 +147,10 @@ Bora nos conectar e fazer com que nossa Parceria seja de muito Sucesso!🥰🍀�
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/pacman-contribution-graph.svg">
-</picture>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/EvelynKling/EvelynKling/output/snake.svg" alt="Snake animation" />
 
 ###
+
