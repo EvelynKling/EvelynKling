@@ -36,21 +36,7 @@ Atuo como Tech Recruiter a mais de 4 anos e estou em busca de excelentes Talento
 
 🟣 Processo admissional: conferência de documentos, agendamento de exames, cadastro de novos colaboradores no sistema, confecção de contratos, confecção de crachás, controles diversos, entregas de EPI's etc;
 
-🟢 Manutenção de ponto eletrônico sistema Datamace, cadastro de biometria;
 
-🟣 Controle de planilhas, faturamento;
-
-🟢 Onboarding;
-
-🟣 Senso de urgência;
-
-🟢 Boa comunicação; 
-
-🟣 Agilidade;
-
-🟢 Organização;
-
-🟣 Bom trabalho em equipe.
 
 
 Bora nos conectar e fazer com que nossa Parceria seja de muito Sucesso!🥰🍀🤝
